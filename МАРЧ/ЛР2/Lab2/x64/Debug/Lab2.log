@@ -1,0 +1,5 @@
+﻿  Lab2.cpp
+D:\Downloads\University\MPEI\МАРЧ\ЛР2\Lab2\Lab2.cpp(15,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Downloads\University\MPEI\МАРЧ\ЛР2\Lab2\Lab2.cpp(22,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Downloads\University\MPEI\МАРЧ\ЛР2\Lab2\Lab2.cpp(23,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Lab2.vcxproj -> D:\Downloads\University\MPEI\МАРЧ\ЛР2\Lab2\x64\Debug\Lab2.exe
